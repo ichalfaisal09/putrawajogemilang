@@ -1,0 +1,21 @@
+<script lang="ts">
+  import "../app.css";
+</script>
+
+<svelte:head>
+  <link rel="icon" href="/favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin="anonymous"
+  />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
+    rel="stylesheet"
+  />
+</svelte:head>
+
+<main>
+  <slot />
+</main>
