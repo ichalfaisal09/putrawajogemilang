@@ -412,7 +412,7 @@
     </p>
 
     <div class="text-sm text-gray-300">
-      &copy; 2024 Putra Wajo Gemilang • Made with &hearts; in Palembang
+      &copy; 2025 Putra Wajo Gemilang • Made with &hearts; in Palembang
     </div>
   </div>
 </footer>
