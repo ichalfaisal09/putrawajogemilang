@@ -213,8 +213,8 @@
       <div
         class="bg-slate-800/50 backdrop-blur-sm p-6 rounded-2xl border border-gray-700/50"
       >
-        <div class="text-3xl font-black text-green-400">30</div>
-        <div class="text-sm text-gray-400">Menit Sampai</div>
+        <div class="text-3xl font-black text-green-400">1-2</div>
+        <div class="text-sm text-gray-400">Jam Sampai</div>
       </div>
       <div
         class="bg-slate-800/50 backdrop-blur-sm p-6 rounded-2xl border border-gray-700/50"
